@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.0+cpu
+flask
+faiss-cpu
+numpy
+sentence-transformers
+google-generativeai
+pymongo
+python-dateutil
+PyJWT
+werkzeug
+llama-index
+selenium
+webdriver-manager
+html2text
+urllib3
+gunicorn
+google.genai
