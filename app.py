@@ -34,7 +34,7 @@ TOP_K = 10
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # 👉 DO NOT hardcode keys in code – use env var
-genai.configure(api_key="AIzaSyDx11oR3yrQPB8sTlIlLKhwiK9kdk4VEzw")
+genai.configure(api_key="AIzaSyCKuhtVhkORcCm50p4ST7nN2zxDsct79FY")
 MAX_HISTORY_TURNS = 120
 MAX_HISTORY_CHARS = 35000
 MAX_CONTEXT_CHARS = 50000

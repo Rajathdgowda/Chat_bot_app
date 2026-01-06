@@ -16,3 +16,5 @@ html2text
 urllib3
 gunicorn
 google.genai
+requests
+beautifulsoup4
